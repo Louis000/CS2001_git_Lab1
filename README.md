@@ -62,4 +62,3 @@ Student ID | Movie | Year of Release
 1942771 | Borat | 2006
 1942771 | The Dictator |2012
 1942771 | Avatar | 2009
-1942771 | The Wolf of Wall Street | 2013
