@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release 
 --- | --- | ---
+1808245 | Dark Knight | 2009
+1808245 | Avengers | 2001
+1800000 | Jurassic Park 1 | 1992
+1800000 | JP2 | 1993
+1800000 | Die Hard | 1993
 1929348 | Dark Knight | 2009
 1929348| Avengers | 2001
 1929348| Avengers Endgame | 2019
@@ -58,8 +63,9 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
-1942771 | Gravity | 2013
-1942771 | Prisoners | 2013
-1942771 | Captain Philips | 2013
-1942771 | The Butler | 2013
-1942771 | Before Midnight | 2013
+1945582 | The Internship | 2013
+1945582 | Avengers: Endgame | 2019
+1945582 | Iron Man | 2008
+1945582 | The Social Network | 2010
+1945582 | Thunderbirds | 2004
+1920389 | The Wolf of Wallstreet | 2013
