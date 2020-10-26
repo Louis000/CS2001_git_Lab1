@@ -58,3 +58,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1942771 | Kingsman:The Secret Service | 2015
+1942771 | Borat | 2006
+1942771 | The Dictator |2012
+1942771 | Avatar | 2009
+1942771 | The Wolf of Wall Street | 2013
